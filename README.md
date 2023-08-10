@@ -1,4 +1,4 @@
-<h1 align="left"> Olá! eu sou Yuri Azevedo 👋 </h1>
+<h1 align="left">Olá! eu sou Yuri Azevedo 👋 </h1>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">🛠️  Language and tools</h3>
+<h2 align="left">🛠️  Language and tools</h2>
 
 ###
 
