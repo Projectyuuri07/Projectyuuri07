@@ -32,7 +32,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Projectyuuri07/Projectyuuri07/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Projectyuuri07/Projectyuuri07/blob/output/github-contribution-grid-snake.svg)
 
-###
 ###
