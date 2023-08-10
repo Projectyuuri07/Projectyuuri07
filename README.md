@@ -4,7 +4,6 @@
 ![Projectyuuri07's Stats](https://github-readme-stats.vercel.app/api?username=Projectyuuri07&theme=jolly&show_icons=true&hide_border=true&count_private=true)
 ![Projectyuuri07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Projectyuuri07&theme=jolly&hide_border=true)
 ![Projectyuuri07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Projectyuuri07&theme=jolly&show_icons=true&hide_border=true&layout=compact)
-![Projectyuuri07's cards](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Projectyuuri07&theme=jolly&show_icons=true&hide_border=true&count_private=true&utcOffset=)
 
 ## Tecnologias que uso no meu dia
 
