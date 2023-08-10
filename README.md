@@ -1,10 +1,10 @@
 <h2 align="left"> Olá! eu sou Yuri Azevedo 👋 </h2>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Projectyuuri07&theme=jolly&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Projectyuuri07&theme=jolly&show_icons=true&hide_border=true&layout=compact" height="160" alt="languages graph"  />
-   <img src="https://github-readme-stats.vercel.app/api?username=Projectyuuri07&theme=jolly&show_icons=true&hide_border=true&count_private=true" height="190" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Projectyuuri07&theme=jolly&hide_border=true" height="190" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Projectyuuri07&theme=jolly&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Projectyuuri07&theme=jolly&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=Projectyuuri07&theme=jolly&show_icons=true&hide_border=true&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Projectyuuri07&theme=jolly&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
