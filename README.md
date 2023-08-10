@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-<img src="" alt="Snake animation" />
+<img src="https://github.com/Projectyuuri07/Projectyuuri07/blob/main/snake.yml" alt="Snake animation" />
 
 ###
