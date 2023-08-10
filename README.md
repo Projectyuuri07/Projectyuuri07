@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥  My Stats :</h2>
 
 ###
 
@@ -26,12 +26,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
-
-###
-
-
-<br clear="both">
-
-![snake gif](https://github.com/Projectyuuri07/Projectyuuri07/blob/output/github-contribution-grid-snake.svg)
 
 ###
