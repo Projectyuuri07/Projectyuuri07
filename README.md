@@ -1,4 +1,14 @@
-<h2 align="left"> Olá! eu sou Yuri Azevedo 👋 </h2>
+<h1 align="left"> Olá! eu sou Yuri Azevedo 👋 </h1>
+
+###
+
+<h2 align="left">🔥   My Stats :</h2>
+
+###
+
+<h3 align="left">🛠️  Language and tools</h3>
+
+###
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Projectyuuri07&theme=jolly&show_icons=true&hide_border=true&count_private=true" height="200" alt="stats graph"  />
