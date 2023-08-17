@@ -7,9 +7,10 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Projectyuuri07&show_icons=true&hide_border=true&count_private=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Projectyuuri07&hide_border=true" height="150" alt="languages graph"  />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Projectyuuri07&layout=compact" height="150" alt="languages graph"  />
+  <img height="200" alt="stats graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Projectyuuri07&theme=midnight_purple"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Projectyuuri07&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150" alt="languages graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Projectyuuri07&theme=midnight-purple&hide_border=true"/>  
+  <img height="150" alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Projectyuuri07&theme=midnight-purple&layout=compact"/>
 </div>
 
 ###
