@@ -8,9 +8,8 @@
 
 <div align="center">
   <img height="200" alt="stats graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Projectyuuri07&theme=midnight_purple"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Projectyuuri07&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150" alt="languages graph" src="https://github-readme-streak-stats.herokuapp.com/?user=Projectyuuri07&theme=midnight-purple"/>  
-  <img height="180" alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Projectyuuri07&theme=midnight-purple"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Projectyuuri07&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="170" alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Projectyuuri07&theme=midnight-purple"/>
 </div>
 
 ###
