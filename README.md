@@ -1,4 +1,4 @@
-<h1 align="left">Olá! eu sou Yuri Azevedo 👋 </h1>
+<h1 align="left">Hello! I'm Yuri Azevedo 👋 </h1>
 
 ###
 
